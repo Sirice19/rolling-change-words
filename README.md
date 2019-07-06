@@ -4,7 +4,7 @@ Preview | 预览
 
 Preview in page | 页面预览
 
-[click here to preview.](https://sirice19.github.io/rolling-change-words/)
+[click here to preview.](https://siricee.github.io/rolling-change-words/)
 
 ---
 
